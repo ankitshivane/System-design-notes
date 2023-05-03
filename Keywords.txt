@@ -1,0 +1,11 @@
+
+
+client
+types of clients
+     thick client
+     thin client
+Servers
+types of servers
+ 
+Web Architecture-
+REST Architectural Style 
