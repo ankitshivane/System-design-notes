@@ -9,3 +9,4 @@ types of servers
  
 Web Architecture-
 REST Architectural Style 
+HTTP Pull and Push
