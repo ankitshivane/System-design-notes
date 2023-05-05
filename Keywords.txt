@@ -11,3 +11,6 @@ Web Architecture-
 REST Architectural Style 
 HTTP Pull and Push
 Ways of Doing/implementing HTTP Pull and Push mechanism 
+    -- Http Pull with Ajax ( Polling )
+    -- HTTP Push (Long Polling) 
+    -- Web sockets 
